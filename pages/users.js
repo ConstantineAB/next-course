@@ -3,7 +3,6 @@ import MainContainer from "../components/MainContainer"
 
 const Users = ({users}) => {
 
-
   return (
     <MainContainer keywords={"users next js"}>
       <h1>Список пользователей</h1>
